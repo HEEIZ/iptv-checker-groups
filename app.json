@@ -1,5 +1,5 @@
 {
-   "name":"IPTVkeys",
+   "name":"IPTVkeys_C",
    "description":"A telegram bot to check the Xtream Codes Lists",
    "repository":"https://github.com/adrianpaniagualeon/iptv-checker-groups",
    "logo":"https://support.upwork.com/hc/article_attachments/360040474034/chatbot-data.png",
@@ -11,7 +11,7 @@
    "env":{
       "TOKEN":{
          "description":"TELEGRAM BOT TOKEN",
-         "value":"55555555555"
+         "value":"1872685541:AAGx6X3Yg_1rFF9bN9u3cF1Hto_mnmJCj4Y"
       },
       "WEBHOOK": {
       "description": "HEROKU APP URL",
