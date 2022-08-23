@@ -9,9 +9,10 @@ import os
 from datetime import datetime
 import traceback
 
-
-TOKEN =  os.environ['TOKEN']
-WEBHOOK = os.environ['WEBHOOK']
+Bot = Client(
+    "Conan76-Simple-IPTV-m3u-to-Video-Bot",
+    bot_token = "5561532834:AAEwk_vC8KmmcRKyPTe2XjZXC_1GG6DCaXk",
+)
 
 
 bot = telebot.TeleBot(TOKEN)
