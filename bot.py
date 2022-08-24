@@ -9,12 +9,6 @@ import os
 from datetime import datetime
 import traceback
 
-Bot = Client(
-    "BotIPTVkEYs",
-    bot_token = "5561532834:AAEwk_vC8KmmcRKyPTe2XjZXC_1GG6DCaXk",
-    api_id = 15668875,
-    api_hash = "9126d3e935a1553bedf9bd822f3b4ad9"
-
 
 bot = telebot.TeleBot(TOKEN)
 server = Flask(__name__)
