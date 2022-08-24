@@ -11,7 +11,7 @@
    "env":{
       "TOKEN":{
          "description":"TELEGRAM BOT TOKEN",
-         "value":"5783045321:AAFJBgKz6d6PBqxjRoMnbDJP2y52CwGuaas"
+         "value":"5582073607:AAFSpxtNzvAdeY-63dZBcQVbkCU0HuLYVyo"
       },
       "WEBHOOK": {
       "description": "HEROKU APP URL",
