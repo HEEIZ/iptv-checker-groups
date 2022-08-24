@@ -1,5 +1,5 @@
 requests==2.27.1
-pyTelegramBotAPI==3.7.3
+python-telegram-bot==13.13
 logging3==0.0.2
 urllib3==1.26.8
 beautifulsoup4==4.10.0
